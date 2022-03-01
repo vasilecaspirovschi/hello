@@ -1,0 +1,2 @@
+# hello
+laborator 7
